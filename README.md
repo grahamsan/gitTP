@@ -1,1 +1,3 @@
-# gitTP
+# gitTP 
+
+read this funcking readme
